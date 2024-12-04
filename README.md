@@ -6,3 +6,5 @@ or you could run the unity game and make the circles match the sensors, then pre
 button. That will generate a folder that has the code in it with those new angles.
 The game can be accessed by running game/My project. It will generate the code into the 
 Test/Test.ino file. 
+Additionally, the motortest file just rotates the motor to 180 degrees and 90 degrees, switching every
+two seconds.
