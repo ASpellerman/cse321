@@ -1,3 +1,8 @@
+This repo is for an arduino system that has a fan, motor and six motion sensors. The
+sensors are spread out, and as a person moves into and out of their respective fields of view, 
+the motor will rotate the fan to track the person. The circuits for which can be found in the 
+circuits folder.
+
 How to use the things in this repo in conjunction with the project:
 The code in the finalCode/finalCode.ino file is good to go. Upload that to the arduino and it will work, 
 provided that the angles in the code match the angles that the sensors are laid out in.
